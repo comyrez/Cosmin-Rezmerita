@@ -24,8 +24,8 @@
 
 ### Education
   * Faculty of Mathematics and Informatics, Bucharest University
-    > October 2015 - Present
-    > Student
+    > October 2015 - Present <br/>
+    > Student <br/>
     
     What I've studied: C/C++, Java, Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex.
 
