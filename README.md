@@ -62,8 +62,8 @@
 
 ### Hobbies
 
-* I like to play piano or guitar.
+* I like to play piano and guitar.
 * I love to spend my spare time with my friends or family.
 * I like having a walk with a friend giving us a moment to have a quick chat.
-* I am a amateur photographer.
+* I am an amateur photographer.
 
