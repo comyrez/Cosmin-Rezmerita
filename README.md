@@ -7,13 +7,15 @@
 ***
 
 ### Contact
-  **Address:** Splaiul Indepententei 204, Grozavesti Student Campus, Block D
-  **Phone/SMS:** 0753084861
-  **Email:** cosmin.rezmerita@gmail.com
+**Address:** Splaiul Indepententei 204, Grozavesti Student Campus, Block D
+**Phone/SMS:** 0753084861
+**Email:** cosmin.rezmerita@gmail.com
+  
+***
 
 ### Proffessional Experience
   - Linen Porter at Motel One hotel, London, United Kingdom
-  > July 2015 - August 2015
+  > July 2015 - August 2015 <
     It was an amazing experience where I could put to test my interpersonal and teamwork skills.
 
 ***
