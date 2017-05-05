@@ -10,10 +10,11 @@
 **Address:** Splaiul Indepententei 204, Grozavesti Student Campus, Block D <br/>
 **Phone/SMS:** 0753084861 <br/>
 **Email:** cosmin.rezmerita@gmail.com <br/>
+**LinkedIn:** https://ro.linkedin.com/in/cosminrezmerita
   
 ***
 
-### Proffessional Experience
+### Experience
   - Linen Porter at Motel One hotel, London, United Kingdom <br/>
     > July 2015 - August 2015 <br/>
     
@@ -21,32 +22,18 @@
 
 ***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+  * Faculty of Mathematics and Informatics, Bucharest University
+    > October 2015 - Present
+    > Student
+    
+    What I've studied: C/C++, Java, Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex.
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+***
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comyrez/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hobbies
