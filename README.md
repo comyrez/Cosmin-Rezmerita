@@ -47,7 +47,7 @@
     - This little aplication was developed in Java in colaboration with two other colleagues of mine as a college project for the Java course.
   3. **Mosaic** <br/>
     - In the 3rd year of college, *Mosaic* was the first project for the Artificial Intelligence course. This project was developed in Matlab and took an image as input and recreated that image out of other small images.
-  4. **Image scaling without distorting the content"** <br/>
+  4. **Image scaling without distorting the content** <br/>
     - A project developed for the Artificial Intellicence course made in Matlab according to the discovering of seam carving method made by *Shai Avidan* (from Mitsubishi Electric Research Labs) and *Ariel Shamir* (from The Interdisciplinary Center & MERL).
   5. **Facial detection** <br/>
     - This project was developed in Matlab in collaboration with another colleague of mine for the Artificial Intellicenge course. It takes an image as input and finds the faces in it.
