@@ -15,8 +15,8 @@
 
 ### Proffessional Experience
   - Linen Porter at Motel One hotel, London, United Kingdom
-  > July 2015 - August 2015 <
-    It was an amazing experience where I could put to test my interpersonal and teamwork skills.
+  > July 2015 - August 2015
+  > It was an amazing experience where I could put to test my interpersonal and teamwork skills.
 
 ***
 
