@@ -7,11 +7,9 @@
 ***
 
 ### Contact
-**Address:** Splaiul Indepententei 204, Grozavesti Student Campus, Block D
-#
-**Phone/SMS:** 0753084861
-#
-**Email:** cosmin.rezmerita@gmail.com
+  #### **Address:** Splaiul Indepententei 204, Grozavesti Student Campus, Block D
+  #### **Phone/SMS:** 0753084861
+  #### **Email:** cosmin.rezmerita@gmail.com
   
 ***
 
