@@ -2,7 +2,7 @@
 
 ### Profile
   I am a *3rd year student* at the *Faculty of Mathematics and Computer Science, Bucharest University* seeking to pursue a career in the IT domain. <br/>
-  I am a dedicated, organized and methodical human being. I have good interpersonal skills, am an excellent team worker and am keen and very willing to learn and develop new skills. I have an active and dynamic approach to work and getting things done. I am determined and decisive. I identify and develop opportunities.
+  I am a dedicated, organized and methodical human being. I have good interpersonal skills, I am an excellent team worker and I am keen and very willing to learn and develop new skills. I have an active and dynamic approach to work and getting things done. I am determined and decisive.
   
 ***
 
