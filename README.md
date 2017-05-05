@@ -27,13 +27,13 @@
     > October 2015 - Present <br/>
     > Student <br/>
     
-    What I've studied: C/C++, Java, Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex. <br/>
+    * What I've studied: C/C++, Java, Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex. <br/>
     
   * Faculty of Automatics, Computer Science, Electrical and Electronic Engineering, "Dunarea de Jos" University, Galati
     > October 2014 - June 2015 <br/>
     > Student <br/>
     
-    What I've studied: Object Oriented Programming in C++, Solvind differential equations in Matlab, Basic usage of AutoCad, Algebra, Geometry, Physics. <br/>
+    * What I've studied: Object Oriented Programming in C++, Solvind differential equations in Matlab, Basic usage of AutoCad, Algebra, Geometry, Physics. <br/>
     
   * "Mihail Kogalniceanu" High School, Galati
     > September 2010 - June 2014 <br/>
