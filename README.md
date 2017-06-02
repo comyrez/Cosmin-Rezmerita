@@ -54,6 +54,10 @@
 
 ***
 
+### Other activities
+
+* I attended a series of workshops held by RoWeb - DCS where I learnt more about Agile methodologies and it's principles and I witnessed at the development cycle of a software solution. I also learnt about the importance of using versioning systems (Git) and building systems (Maven). We were told about coding style principles, as well (Keep it Simple, Stupid, Principle of Least Surprise, Single Responsibility Principle, Convention over Configuration).
+
 ### Resources
 * Recently I discovered an interesting book that is currently on my *to read list*. The book is called *Thinking in Java* by *Bruce Eckel*. 
 * As another documentation resource I would include the *Stack Overflow* website. I believe that almost every programmer that runs into trouble will find at least a part of the answear here.
