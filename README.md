@@ -24,7 +24,7 @@
     > October 2015 - Present <br/>
     > Student <br/>
     
-    * What I've studied: C/C++, Java, Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex. <br/>
+    * What I've studied: C/C++, Java, Swift (for iOS application development), Image processing in Matlab, Algorithms and Data Structures, Programming Techniques, Graphic Programming in OpenGL, Database Design and Implementation, Networking(CCNA1 and CCNA2), Digital and Analogic Electronics, LaTex. <br/>
     
   * Faculty of Automatics, Computer Science, Electrical and Electronic Engineering, "Dunarea de Jos" University, Galati
     > October 2014 - June 2015 <br/>
@@ -51,12 +51,16 @@
     - A project developed for the Artificial Intellicence course made in Matlab according to the discovering of seam carving method made by *Shai Avidan* (from Mitsubishi Electric Research Labs) and *Ariel Shamir* (from The Interdisciplinary Center & MERL).
   5. **Facial detection** <br/>
     - This project was developed in Matlab in collaboration with another colleague of mine for the Artificial Intellicenge course. It takes an image as input and finds the faces in it.
+  6. **Faculty Finder** (in progress) <br/>
+    - This is an Expert System developed in Prolog in collaboration with a colleague of mine during the Expert Systems course. It asks the user some questions and then, based on some rules given by us and on the user's answers makes a deduction and suggests a faculty to follow.
 
 ***
 
 ### Other activities
 
 * I attended a series of workshops held by RoWeb - DCS where I learnt more about Agile methodologies and it's principles and I witnessed at the development cycle of a software solution. I also learnt about the importance of using versioning systems (Git) and building systems (Maven). We were told about coding style principles, as well (Keep it Simple, Stupid, Principle of Least Surprise, Single Responsibility Principle, Convention over Configuration).
+
+***
 
 ### Resources
 * Recently I discovered an interesting book that is currently on my *to read list*. The book is called *Thinking in Java* by *Bruce Eckel*. 
