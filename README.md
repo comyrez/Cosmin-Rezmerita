@@ -53,6 +53,8 @@
     - This project was developed in Matlab in collaboration with another colleague of mine for the Artificial Intellicenge course. It takes an image as input and finds the faces in it.
   6. **Faculty Finder** (in progress) <br/>
     - This is an Expert System developed in Prolog in collaboration with a colleague of mine during the Expert Systems course. It asks the user some questions and then, based on some rules given by us and on the user's answers makes a deduction and suggests a faculty to follow.
+  7. **Car dealership application for cars sale** <br/>
+    - This project was developed in a team of three using C# programming language in a MVC architecture and deployed in Azure Cloud. The buyer could choose a car and some extra options to add to the car. One could also choose to pay monthly for the car and the selected options during a number of years selected by the user. After introducing his email address, the customer would receive the details of the purchase in his e-mailbox.
 
 ***
 
