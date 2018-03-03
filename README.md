@@ -15,8 +15,9 @@
 ***
 
 ### Experience
-  * **E-dea Works** - Software Developer
+  * **E-dea Works**
     > July 2017 - Present <br/>
+    > Software Developer <br/>
     * Skills and aptitudes:
       - Java, Spring Framework, Hibernate, Oracle SQL, Rest APIs, Microservices
      
