@@ -1,7 +1,7 @@
 ## Welcome to Cosmin's resume page.
 
 ### Profile
-  I am a *3rd year student* at the *Faculty of Mathematics and Computer Science, Bucharest University* seeking to pursue a career in the IT domain. <br/>
+  I am a *4th year student* at the *Faculty of Mathematics and Computer Science, Bucharest University* seeking to pursue a career in the IT domain. <br/>
   I am a dedicated, organized and methodical human being. I have good interpersonal skills, I am an excellent team worker and I am keen and very willing to learn and develop new skills. I have an active and dynamic approach to work and getting things done. I am determined and decisive.
   
 ***
@@ -15,7 +15,11 @@
 ***
 
 ### Experience
-  * I don't have any working experience in the IT domain so far but I believe that the theoretical basis that I've accumulated up until this moment will help me get things done.
+  * **E-dea Works** - Software Developer
+    > July 2017 - Present <br/>
+    * Skills and aptitudes:
+      - Java, Spring Framework, Hibernate, Oracle SQL, Rest APIs, Microservices
+     
 
 ***
 
